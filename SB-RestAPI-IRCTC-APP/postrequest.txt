@@ -1,0 +1,9 @@
+{
+     "name":"Deepak",
+	 "dob":"24-jun-2021",
+	 "gender":"male",
+	 "doj":"25-july-2021",
+      "from":"pune",
+	 "to":"Mumbai",
+	 "train":"6789"
+}
